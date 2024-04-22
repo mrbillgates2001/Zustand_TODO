@@ -1,0 +1,29 @@
+{
+  "tasks": [
+    {
+      "id": "9b07",
+      "title": "Do your homework",
+      "completed": false
+    },
+    {
+      "id": "96e1",
+      "title": "Clean your bedroom",
+      "completed": false
+    },
+    {
+      "id": "f189",
+      "title": "Write your daily ideas",
+      "completed": false
+    },
+    {
+      "id": "b4d7",
+      "title": "Make a video for You Tube channel",
+      "completed": false
+    },
+    {
+      "id": "2144",
+      "title": "Write an Article for Daryo.uz ",
+      "completed": false
+    }
+  ]
+}
